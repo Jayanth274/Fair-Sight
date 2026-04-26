@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pkl
+*.png
+assets/shap_*.png
+.streamlit/secrets.toml

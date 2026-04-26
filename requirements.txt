@@ -1,0 +1,12 @@
+streamlit
+aif360
+shap
+plotly
+pandas
+scikit-learn
+matplotlib
+seaborn
+fpdf2
+openpyxl
+numpy
+requests
